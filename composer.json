@@ -1,0 +1,6 @@
+{
+    "description": "FCK Editor",
+    "license": "GPL 2.0",
+    "name": "treadmillian/fckeditor",
+    "type": "library",
+}
