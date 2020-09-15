@@ -3,6 +3,5 @@
     "license": "GPL 2.0",
     "type": "ree-js-module",
     "name": "treadmillian/fckeditor",
-    "type": "library",
     "require": { }
 }
